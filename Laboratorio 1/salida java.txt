@@ -1,0 +1,4 @@
+fibonacci Long 92 es 7540113804746346429
+fibonacci Long 93 es -6246583658587674878
+fibonacci Int 48 es 512559680
+fibonacci Int 49 es -811192543
