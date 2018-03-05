@@ -1,0 +1,11 @@
+Éxito	#stdin #stdout 1.94s 8876KB
+tamaño matriz = 100 Execution Time: 0.002062
+tamaño matriz = 200 Execution Time: 0.015544
+tamaño matriz = 300 Execution Time: 0.05143
+tamaño matriz = 400 Execution Time: 0.094942
+tamaño matriz = 500 Execution Time: 0.150077
+tamaño matriz = 600 Execution Time: 0.267326
+tamaño matriz = 700 Execution Time: 0.449731
+tamaño matriz = 500 Execution Time: 0.139483
+tamaño matriz = 600 Execution Time: 0.268698
+tamaño matriz = 700 Execution Time: 0.494068

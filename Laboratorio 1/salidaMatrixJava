@@ -1,0 +1,11 @@
+Éxito	#stdin #stdout 3.56s 70040KB
+Tamaño 100 Tiempo 0.01287017s
+Tamaño 200 Tiempo 0.015111558s
+Tamaño 300 Tiempo 0.049099812s
+Tamaño 400 Tiempo 0.111329524s
+Tamaño 500 Tiempo 0.227326296s
+Tamaño 600 Tiempo 0.391360376s
+Tamaño 700 Tiempo 1.306239516s
+Tamaño 500 Tiempo 0.227402274s
+Tamaño 600 Tiempo 0.39089083s
+Tamaño 700 Tiempo 0.678264692s
